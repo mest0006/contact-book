@@ -1,0 +1,29 @@
+:root {
+  background-color: pink;
+}
+
+#app {
+  display: grid;
+  justify-content: center;
+  margin: 2rem;
+  font-family: 'Raleway', sans-serif;
+  background-color: pink;
+}
+
+.row {
+  padding: 2rem;
+  background-color: lightcyan;
+}
+
+h1 {
+  color:
+    gray;
+}
+
+li {
+  font-size: 25px;
+}
+
+#label {
+  font-size: 25px;
+}
